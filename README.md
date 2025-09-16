@@ -2,7 +2,7 @@
 
 ## 🌍 About Me
 
-I'm an **Ai4Impact Product Fellow** at the Burnes Center for Social Change at Northeastern University, where I help integrate AI solutions for public sector challenges in partnership with the City of Boston.  
+I'm an **Generative AI Product Fellow** at the Burnes Center for Social Change at Northeastern University, where I help integrate AI solutions for public sector challenges in partnership with the City of Boston.  
 I also work as a **Part-Time Tech Lead** for [Fyras Solutions](https://github.com/Fyras-Solutions), an AI firewall startup based in Seattle.
 
 I'm passionate about leveraging AI at the intersection of software technology, supply chain, and product development to drive real-world impact.
