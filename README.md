@@ -7,6 +7,8 @@ I also work as a **Part-Time Tech Lead** for [Fyras Solutions](https://github.co
 
 I'm passionate about leveraging AI at the intersection of software technology, supply chain, and product development to drive real-world impact.
 
+To learn more, visit my website: https://thealphacubicle.github.io/
+
 ---
 
 ## 🛠️ Tech Stack & Skills
