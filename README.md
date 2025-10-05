@@ -1,6 +1,6 @@
-# Hi there, I'm Srihari 👋
+# Hi, I'm Srihari!
 
-## 🌍 About Me
+## About Me
 
 I'm an **Generative AI Product Fellow** at the Burnes Center for Social Change at Northeastern University, where I help integrate AI solutions for public sector challenges in partnership with the City of Boston.  
 
@@ -12,7 +12,7 @@ To learn more, visit my website: https://thealphacubicle.dev
 
 ---
 
-## 🛠️ Tech Stack & Interests
+## Tech Stack & Interests
 
 - **Full Stack Python:** Microservices (FastAPI, Pydantic), Multi-Agent RAG systems (LangChain), API design, automation.
 - **Cloud Platforms:** AWS, Azure
@@ -20,7 +20,7 @@ To learn more, visit my website: https://thealphacubicle.dev
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - [**PersonalRAG**](https://github.com/thealphacubicle/PersonalRAG): A personal Retrieval-Augmented Generation toolkit for knowledge about me, integrated into my personal website.
 - **Linguisight**: Language intelligence platform for document and context understanding.
@@ -29,7 +29,7 @@ Explore more in my [pinned repositories](https://github.com/thealphacubicle?tab=
 
 ---
 
-## 💡 Interests
+## Interests
 
 - Public sector innovation & social impact
 - AI safety, LLMOps, and agent systems
@@ -37,10 +37,6 @@ Explore more in my [pinned repositories](https://github.com/thealphacubicle?tab=
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srihari-r-006034176/)
-
----
-
-*Always eager to collaborate, ideate, and build solutions that make a difference!*
