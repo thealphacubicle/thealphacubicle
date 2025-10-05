@@ -23,8 +23,7 @@ To learn more, visit my website: https://thealphacubicle.github.io/
 
 - [**PersonalRAG**](https://github.com/thealphacubicle/PersonalRAG): Personal Retrieval-Augmented Generation toolkit for knowledge workflows.
 - **Linguisight**: *(Coming Soon)* Language intelligence platform for document and context understanding.
-- [**Glassbox**](https://github.com/thealphacubicle/glassbox): Transparent analytics and explainability tools for AI/ML projects.
-
+- 
 Explore more in my [pinned repositories](https://github.com/thealphacubicle?tab=repositories)!
 
 ---
