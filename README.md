@@ -1,4 +1,4 @@
-# Hi there, I'm Srihari R. (thealphacubicle) 👋
+# Hi there, I'm Srihari 👋
 
 ## 🌍 About Me
 
